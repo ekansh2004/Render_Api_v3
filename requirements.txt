@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+tensorflow
+numpy
+Pillow
+python-multipart
+google-generativeai
+python-dotenv
